@@ -1,3 +1,7 @@
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/jaesung-wwdc/WWDC20-SwiftStudentChallenge/blob/master/LICENSE)
+
+[![Languages](https://img.shields.io/badge/language-swift-blue.svg)](https://github.com/jaesung-wwdc/WWDC20-SwiftStudentChallenge)
+
 # WWDC20-SwiftStudentChallenge
 This is a public repository for WWDC20: Swift Student Challenge. This contains only 3D scene of the project. You can execute it on Xcode and iPad
 
