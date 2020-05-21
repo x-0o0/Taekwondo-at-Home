@@ -20,5 +20,3 @@
  - [Team USA - USA Taekwondo](https://www.teamusa.org/usa-taekwondo/v2-getting-started-in-taekwondo)
  
  */
-
-//: [Go to References](@next)
