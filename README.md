@@ -3,6 +3,8 @@
 # WWDC20-SwiftStudentChallenge
 This is a public repository for WWDC20: Swift Student Challenge. This contains only 3D scene of the project. You can execute it on Xcode and iPad
 
+*This project has been awarded on  WWDC20. (Updated on Jun 16th)*
+
 ## Spending time with Swift @ home 🏠
 
 ![Profile](https://github.com/jaesung-wwdc/WWDC20-SwiftStudentChallenge/blob/master/Taekwondo%40Home/Profile.PNG)
@@ -10,8 +12,6 @@ This is a public repository for WWDC20: Swift Student Challenge. This contains o
 ### © 2020 Jaesung Lee
 
 This project is only for  WWDC20 Swift Student Challenge.
-
-This project has been awarded on  WWDC20. (Updated on Jun 16th)
 
 > **Note**
 >
