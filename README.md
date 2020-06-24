@@ -11,6 +11,8 @@ This is a public repository for WWDC20: Swift Student Challenge. This contains o
 
 This project is only for  WWDC20 Swift Student Challenge.
 
+This project has been awarded on  WWDC20. (Updated on Jun 16th)
+
 > **Note**
 >
 > This project doesn't include AR view.
