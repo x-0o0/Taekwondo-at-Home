@@ -15,7 +15,7 @@ This project is only for  WWDC20 Swift Student Challenge.
 
 > **Note**
 >
-> This project doesn't include AR view.
+> This project doesn't include AR features.
 
 ### Information
 
@@ -23,7 +23,7 @@ Used Framework: ARKit, SceneKit, AVFoundation, UIKit
 
 Used Program: Xcode, Keynote, Blender, Garage Band
 
-*All sounds, images and 3d animations are created by me*
+*All sounds, images and 3D animations are created by myself*
 
 
 
